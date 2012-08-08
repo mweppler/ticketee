@@ -13,7 +13,7 @@ class ProjectsController < ApplicationController
   end
   
   def index
-    # TODO: implement index action
+    @projects = Project.all
   end
 
   def new
