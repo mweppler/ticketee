@@ -13,6 +13,7 @@ gem 'rails', '~> 3.2.6'
 # Deploy with Capistrano
 # gem 'capistrano'
 
+gem 'devise', '~> 1.4.3'
 gem 'dynamic_form'
 gem 'jquery-rails'
 gem 'sqlite3'
