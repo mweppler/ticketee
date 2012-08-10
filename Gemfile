@@ -27,6 +27,7 @@ end
 
 group :test, :development do
   # gem 'debugger'
+  gem 'email_spec'
   gem 'rspec-rails', '~> 2.5'
 end
 
